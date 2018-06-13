@@ -1,0 +1,20 @@
+body{
+margin:0px;
+padding: 0px;
+width: 100%;
+}
+
+.login-form {
+margin-top: 60px;
+box-shadow: 0px 0px 10px 1px grey;
+border-radius: 5px;
+padding-bottom: 20px;
+background: white; 
+}
+
+.title{
+font-size:30px;
+padding: 20px;
+text-align: center;
+}
+
